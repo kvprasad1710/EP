@@ -1,0 +1,54 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet type="text/xsl" href="q1.xsl"?>
+<addressbook> 
+<emp> 
+	<name>Karthick</name> 
+	<doorno>No-3/5</doorno> 
+	<street>Vinayakam St</street> 
+	<area>Teynampet</area> 
+	<city>Munbai-200020</city> 
+	<state>Tamil Nadu</state> 
+	<country>India</country> 
+	<phoneno>909583625</phoneno> 
+</emp> 
+<emp> 
+	<name>murali</name> 
+	<doorno>34-11</doorno> 
+	<street>paladugu St</street> 
+	<area>Teynampet</area> 
+	<city>pune-600020</city> 
+	<state>Maharastra</state> 
+	<country>India</country> 
+	<phoneno>912343625</phoneno> 
+</emp> 
+<emp> 
+	<name>Nischal</name> 
+	<doorno>60-21-11</doorno> 
+	<street>Vinayakam St</street> 
+	<area>Teynampet</area> 
+	<city>Bangalore-400020</city> 
+	<state>Tamil Nadu</state> 
+	<country>India</country> 
+	<phoneno>909528765</phoneno> 
+</emp> 
+<emp> 
+	<name>koushik</name> 
+	<doorno>No-2/57</doorno> 
+	<street>Vinayakam St</street> 
+	<area>Teynampet</area> 
+	<city>udipi-600020</city> 
+	<state>Karanataka</state> 
+	<country>India</country> 
+	<phoneno>909883634</phoneno> 
+</emp> 
+<emp> 
+	<name>Krishna mohan</name> 
+	<doorno>60-21-11</doorno> 
+	<street>rammohan rao st</street> 
+	<area>moghalrajpuram</area> 
+	<city>vijayawada-500020</city> 
+	<state>Andhrapradesh</state> 
+	<country>India</country> 
+	<phoneno>709583235</phoneno> 
+</emp> 
+</addressbook> 

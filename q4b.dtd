@@ -1,0 +1,6 @@
+<!ELEMENT student (regno,name,avg,dob)>
+<!ELEMENT regno (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT avg (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+ 

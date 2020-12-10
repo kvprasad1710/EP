@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?> 
+<bookstore  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="q5.xsd">
+<title>a</title>
+<author>a</author>
+<year>1</year>
+ <price>a</price>
+</bookstore>

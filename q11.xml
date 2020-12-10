@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addressbook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<emp1>
+		<name>Karthick</name>
+		<doorno>No-2/57</doorno>
+		<street>Vinayakam St</street>
+		<area>Teynampet</area>
+		<city>Chennai-600020</city>
+		<state>Tamil Nadu</state>
+		<country>India</country>
+		<phoneno>909583625</phoneno>
+	</emp1>
+	<emp2>
+		<name>Karthick</name>
+		<doorno>No-2/57</doorno>
+		<street>Vinayakam St</street>
+		<area>Teynampet</area>
+		<city>Chennai-600020</city>
+		<state>Tamil Nadu</state>
+		<country>India</country>
+		<phoneno>912343625</phoneno>
+	</emp2>
+	<emp3>
+		<name>Karthick</name>
+		<doorno>No-2/57</doorno>
+		<street>Vinayakam St</street>
+		<area>Teynampet</area>
+		<city>Chennai-600020</city>
+		<state>Tamil Nadu</state>
+		<country>India</country>
+		<phoneno>909528765</phoneno>
+	</emp3>
+	<emp4>
+		<name>Karthick</name>
+		<doorno>No-2/57</doorno>
+		<street>Vinayakam St</street>
+		<area>Teynampet</area>
+		<city>Chennai-600020</city>
+		<state>Tamil Nadu</state>
+		<country>India</country>
+		<phoneno>909883634</phoneno>
+	</emp4>
+	<emp5>
+		<name>Karthick</name>
+		<doorno>No-2/57</doorno>
+		<street>Vinayakam St</street>
+		<area>Teynampet</area>
+		<city>Chennai-600020</city>
+		<state>Tamil Nadu</state>
+		<country>India</country>
+		<phoneno>709583235</phoneno>
+	</emp5>
+</addressbook>

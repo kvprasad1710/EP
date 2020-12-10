@@ -1,0 +1,38 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?> 
+<employee> 
+<emp> 
+	<name>Karthick</name> 
+	<doorno>No-3/57</doorno> 
+	<street>Vinayakam St</street> 
+	<area>Teynampet</area> 
+	<city>Munbai-200020</city> 
+</emp> 
+<emp> 
+	<name>murali</name> 
+	<doorno>No-2/57</doorno> 
+	<street>Vinayakam St</street> 
+	<area>Teynampet</area> 
+	<city>pune-600020</city> 
+</emp> 
+<emp> 
+	<name>Karthick</name> 
+	<doorno>No-4/7</doorno> 
+	<street>Vinayakam St</street> 
+	<area>Teynampet</area> 
+	<city>Bangalore-400020</city> 
+</emp> 
+<emp> 
+	<name>venkat</name> 
+	<doorno>No-2/57</doorno> 
+	<street>Vinayakam St</street> 
+	<area>Teynampet</area> 
+	<city>udipi-600020</city> 
+</emp> 
+<emp> 
+	<name>Karthick</name> 
+	<doorno>60-21-11</doorno> 
+	<street>rammohan rao st</street> 
+	<area>moghalrajpuram</area> 
+	<city>vijayawada-500020</city> 
+</emp> 
+</addressbook> 

@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?> 
+<!DOCTYPE student[
+<!ELEMENT student (regno,name,avg,dob)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+]>
+<student>                
+<regno>170024</regno>
+<name>Ramu</name>
+<avg>92</avg>
+<dob>15-08-1992</dob>
+</student>  
